@@ -1,0 +1,1 @@
+{"version":3,"file":"index-B2c5bo4u.js","sources":["../../src/page/ai/textGener/index.tsx"],"sourcesContent":["function TextGener() {\n  return <div>TextGener</div>;\n}\n\nexport default TextGener;\n"],"names":["jsx"],"mappings":";;;AAAA,SAAS,YAAY;AACZ,SAAAA,kCAAA,IAAC,SAAI,UAAS,YAAA,CAAA;AACvB;"}
